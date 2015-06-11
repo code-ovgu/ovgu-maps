@@ -1,0 +1,2069 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-06-10T14:21:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/1466902",
+      "properties": {
+        "@id": "relation/1466902",
+        "addr:housename": "Gebäude 16",
+        "building": "university",
+        "building:levels": "3",
+        "height": "9",
+        "name": "Fakultät für Naturwissenschaften (Gebäude 16)",
+        "operator": "Otto-von-Guericke-Universität",
+        "type": "multipolygon",
+        "website": "http://www.fnw.ovgu.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.64341, 52.1405431 ],
+            [ 11.6435801, 52.1405299 ],
+            [ 11.6435657, 52.1404604 ],
+            [ 11.6443917, 52.140396 ],
+            [ 11.6444047, 52.1404593 ],
+            [ 11.6445386, 52.1404489 ],
+            [ 11.6444346, 52.1399464 ],
+            [ 11.6438908, 52.1399888 ],
+            [ 11.6433047, 52.1400345 ],
+            [ 11.64341, 52.1405431 ]
+          ],
+          [
+            [ 11.6441062, 52.1400523 ],
+            [ 11.6443157, 52.1400355 ],
+            [ 11.6443644, 52.1402643 ],
+            [ 11.6441164, 52.1402841 ],
+            [ 11.6441162, 52.1400995 ],
+            [ 11.6441062, 52.1400523 ]
+          ],
+          [
+            [ 11.6434795, 52.1401047 ],
+            [ 11.6437334, 52.1400842 ],
+            [ 11.6437433, 52.1401301 ],
+            [ 11.6438357, 52.1403026 ],
+            [ 11.6435272, 52.1403275 ],
+            [ 11.6434795, 52.1401047 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25937647",
+      "properties": {
+        "@id": "way/25937647",
+        "addr:housename": "Gebäude 27",
+        "building": "university",
+        "building:levels": "2",
+        "height": "6",
+        "name": "Gebäude 27 (Mensa)",
+        "operator": "Otto-von-Guericke-Universität",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6479299, 52.1399102 ],
+            [ 11.6478244, 52.1393597 ],
+            [ 11.6472814, 52.1393989 ],
+            [ 11.6473061, 52.1395278 ],
+            [ 11.64732, 52.1396056 ],
+            [ 11.6473794, 52.1399043 ],
+            [ 11.6473869, 52.1399494 ],
+            [ 11.6479299, 52.1399102 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25937720",
+      "properties": {
+        "@id": "way/25937720",
+        "addr:housename": "Gebäude 31",
+        "building": "university",
+        "building:levels": "2",
+        "height": "6",
+        "name": "Sporthalle 3 (Gebäude 31)",
+        "operator": "Otto-von-Guericke-Universität",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6485932, 52.1401218 ],
+            [ 11.6490736, 52.1400841 ],
+            [ 11.6489831, 52.1396503 ],
+            [ 11.6485027, 52.139688 ],
+            [ 11.6485932, 52.1401218 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27349291",
+      "properties": {
+        "@id": "way/27349291",
+        "addr:city": "Magdeburg",
+        "addr:country": "DE",
+        "addr:housename": "Gebäude 22",
+        "addr:housenumber": "2",
+        "addr:postcode": "39106",
+        "addr:street": "Universitätsplatz",
+        "building": "university",
+        "building:levels": "4",
+        "height": "12",
+        "comment": "Wir erfassen Adressen von Gebäuden, nicht die von Postfächern.",
+        "name": "Fakultät für Wirtschaftswissenschaft (Gebäude 22)",
+        "operator": "Otto-von-Guericke-Universität",
+        "source": "Bing",
+        "website": "http://www.fww.ovgu.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6455184, 52.1410833 ],
+            [ 11.6458505, 52.1410666 ],
+            [ 11.6458337, 52.1409455 ],
+            [ 11.6456582, 52.1409539 ],
+            [ 11.6456242, 52.1409416 ],
+            [ 11.6456174, 52.1407086 ],
+            [ 11.6456813, 52.1407072 ],
+            [ 11.6456811, 52.1405025 ],
+            [ 11.6456213, 52.1405023 ],
+            [ 11.6456137, 52.1402792 ],
+            [ 11.6457179, 52.1402117 ],
+            [ 11.6458308, 52.1402759 ],
+            [ 11.6459572, 52.1410615 ],
+            [ 11.645962, 52.1410915 ],
+            [ 11.6461404, 52.1410807 ],
+            [ 11.645998, 52.1402239 ],
+            [ 11.6455695, 52.1399724 ],
+            [ 11.6454475, 52.1400581 ],
+            [ 11.6456742, 52.1401869 ],
+            [ 11.6456016, 52.1402338 ],
+            [ 11.645481, 52.1402364 ],
+            [ 11.6455184, 52.1410833 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838607",
+      "properties": {
+        "@id": "way/30838607",
+        "addr:housename": "Gebäude 09",
+        "building": "university",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Fakultät für Elektrotechnik und Informationstechnik (Gebäude 09)",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:shape": "flat",
+        "source": "Bing",
+        "website": "http://www.feit.ovgu.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6406955, 52.1390903 ],
+            [ 11.64071, 52.1391605 ],
+            [ 11.6407508, 52.1391574 ],
+            [ 11.640775, 52.1392751 ],
+            [ 11.6415256, 52.1392171 ],
+            [ 11.6417526, 52.1391995 ],
+            [ 11.6417743, 52.1393049 ],
+            [ 11.6418742, 52.1392972 ],
+            [ 11.6418461, 52.1391606 ],
+            [ 11.6418139, 52.1390037 ],
+            [ 11.6406955, 52.1390903 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838608",
+      "properties": {
+        "@id": "way/30838608",
+        "addr:housename": "Gebäude 10",
+        "building": "university",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Fakultät für Maschinenbau;Fakultät für Verfahrens- und Systemtechnik (Gebäude 10)",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:shape": "flat",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6418742, 52.1392972 ],
+            [ 11.6421051, 52.1392786 ],
+            [ 11.6429017, 52.1392144 ],
+            [ 11.6436908, 52.1391508 ],
+            [ 11.6439067, 52.1391334 ],
+            [ 11.6438776, 52.1389971 ],
+            [ 11.6437113, 52.1390104 ],
+            [ 11.6418461, 52.1391606 ],
+            [ 11.6418742, 52.1392972 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838610",
+      "properties": {
+        "@id": "way/30838610",
+        "addr:housename": "Gebäude 08",
+        "building": "university",
+        "building:levels": "1",
+        "height": "3",
+        "loc_name": "Baracke",
+        "operator": "Otto-von-Guericke-Universität",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6427508, 52.1399295 ],
+            [ 11.6427269, 52.1398202 ],
+            [ 11.6426416, 52.1398273 ],
+            [ 11.642638, 52.1398106 ],
+            [ 11.6418551, 52.1398752 ],
+            [ 11.6418836, 52.1400051 ],
+            [ 11.6420606, 52.1399905 ],
+            [ 11.6420548, 52.1399635 ],
+            [ 11.6421668, 52.1399543 ],
+            [ 11.6425627, 52.1399217 ],
+            [ 11.6425652, 52.1399332 ],
+            [ 11.6425677, 52.1399447 ],
+            [ 11.6427508, 52.1399295 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838612",
+      "properties": {
+        "@id": "way/30838612",
+        "building": "university",
+        "building:levels": "3",
+        "height": "9",
+        "name": "Gebäude 18",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6448302, 52.1388294 ],
+            [ 11.6441432, 52.1388848 ],
+            [ 11.6441687, 52.139004 ],
+            [ 11.6445852, 52.1389704 ],
+            [ 11.6446604, 52.1389643 ],
+            [ 11.6447325, 52.1393023 ],
+            [ 11.6447888, 52.139578 ],
+            [ 11.6449813, 52.1395632 ],
+            [ 11.6448556, 52.1389479 ],
+            [ 11.6448302, 52.1388294 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838615",
+      "properties": {
+        "@id": "way/30838615",
+        "addr:housename": "Gebäude 19",
+        "building": "university",
+        "building:levels": "1",
+        "height": "3",
+        "operator": "Otto-von-Guericke-Universität"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6447096, 52.1404301 ],
+            [ 11.644972, 52.1404138 ],
+            [ 11.6449379, 52.1402079 ],
+            [ 11.6446755, 52.1402242 ],
+            [ 11.6447096, 52.1404301 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838616",
+      "properties": {
+        "@id": "way/30838616",
+        "addr:housename": "Gebäude 12",
+        "building": "university",
+        "building:levels": "3",
+        "height": "9",
+        "operator": "Otto-von-Guericke-Universität",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6418596, 52.1404149 ],
+            [ 11.6419515, 52.1404072 ],
+            [ 11.6419881, 52.1404041 ],
+            [ 11.6419976, 52.1404033 ],
+            [ 11.6419954, 52.1403933 ],
+            [ 11.6428048, 52.1403253 ],
+            [ 11.6429525, 52.1403129 ],
+            [ 11.6428941, 52.1400509 ],
+            [ 11.6427492, 52.1400631 ],
+            [ 11.642754, 52.1400848 ],
+            [ 11.6426238, 52.1400957 ],
+            [ 11.6420751, 52.1401418 ],
+            [ 11.6419483, 52.1401524 ],
+            [ 11.6419436, 52.1401312 ],
+            [ 11.6417991, 52.1401433 ],
+            [ 11.6418596, 52.1404149 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838617",
+      "properties": {
+        "@id": "way/30838617",
+        "addr:housename": "Gebäude 06",
+        "building": "university",
+        "building:levels": "4",
+        "height": "12",
+        "name": "Dezernat Studienangelegenheiten (Gebäude 06)",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:shape": "flat",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6408088, 52.1400653 ],
+            [ 11.6411716, 52.1400372 ],
+            [ 11.6411897, 52.1400223 ],
+            [ 11.6411411, 52.1397643 ],
+            [ 11.6409405, 52.1397777 ],
+            [ 11.6408852, 52.1397816 ],
+            [ 11.6408929, 52.1398235 ],
+            [ 11.640971, 52.1398181 ],
+            [ 11.6409907, 52.1399135 ],
+            [ 11.6410141, 52.1399241 ],
+            [ 11.6410167, 52.139943 ],
+            [ 11.6408635, 52.1399537 ],
+            [ 11.6408567, 52.1399585 ],
+            [ 11.6408442, 52.1399512 ],
+            [ 11.6408581, 52.1399403 ],
+            [ 11.640844, 52.1398624 ],
+            [ 11.6407725, 52.1398673 ],
+            [ 11.6408088, 52.1400653 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838618",
+      "properties": {
+        "@id": "way/30838618",
+        "addr:housename": "Gebäude 07",
+        "building": "university",
+        "building:levels": "4",
+        "height": "12",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6411411, 52.1397643 ],
+            [ 11.6410999, 52.1395334 ],
+            [ 11.6408603, 52.1395494 ],
+            [ 11.640881, 52.1396655 ],
+            [ 11.640899, 52.1396643 ],
+            [ 11.6409035, 52.1396898 ],
+            [ 11.6409271, 52.1397026 ],
+            [ 11.6409405, 52.1397777 ],
+            [ 11.6411411, 52.1397643 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838619",
+      "properties": {
+        "@id": "way/30838619",
+        "addr:housename": "Gebäude 05",
+        "building": "university",
+        "building:levels": "4",
+        "height": "12",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:shape": "flat",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6412335, 52.1402169 ],
+            [ 11.6410092, 52.1402339 ],
+            [ 11.6410265, 52.1403196 ],
+            [ 11.6409714, 52.1403238 ],
+            [ 11.6409825, 52.1403789 ],
+            [ 11.6410377, 52.1403748 ],
+            [ 11.6410731, 52.140551 ],
+            [ 11.6410234, 52.1405548 ],
+            [ 11.6410342, 52.1406084 ],
+            [ 11.6410861, 52.1406045 ],
+            [ 11.6411035, 52.1406914 ],
+            [ 11.6413311, 52.1406741 ],
+            [ 11.6413145, 52.1405913 ],
+            [ 11.6413344, 52.1405898 ],
+            [ 11.6413233, 52.1405348 ],
+            [ 11.6413015, 52.1405365 ],
+            [ 11.641266, 52.14036 ],
+            [ 11.6412845, 52.1403586 ],
+            [ 11.6412732, 52.1403027 ],
+            [ 11.6412511, 52.1403044 ],
+            [ 11.6412335, 52.1402169 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838882",
+      "properties": {
+        "@id": "way/30838882",
+        "addr:housename": "Gebäude 04",
+        "building": "university",
+        "building:levels": "2",
+        "height": "6",
+        "name": "Rektorat (Gebäude 04)",
+        "operator": "Otto-von-Guericke-Universität Magdeburg",
+        "website": "http://www.uni-magdeburg.de/die_universitaet/ueberblick/struktur/rektorat.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6413544, 52.1407737 ],
+            [ 11.641173, 52.140784 ],
+            [ 11.6411941, 52.1409248 ],
+            [ 11.6413755, 52.1409146 ],
+            [ 11.6413544, 52.1407737 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838883",
+      "properties": {
+        "@id": "way/30838883",
+        "addr:housename": "Gebäude 03",
+        "building": "university",
+        "building:levels": "4",
+        "height": "12",
+        "operator": "Otto-von-Guericke-Universität Magdeburg",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6416983, 52.1410779 ],
+            [ 11.6406686, 52.1411501 ],
+            [ 11.6404623, 52.1412914 ],
+            [ 11.6417221, 52.1412146 ],
+            [ 11.6416983, 52.1410779 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838885",
+      "properties": {
+        "@id": "way/30838885",
+        "addr:housename": "Gebäude 02",
+        "building": "university",
+        "building:levels": "4",
+        "height": "12",
+        "name": "Fakultät für Mathematik (Gebäude 02)",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6404623, 52.1412914 ],
+            [ 11.6406686, 52.1411501 ],
+            [ 11.640578, 52.1406358 ],
+            [ 11.6405552, 52.1406371 ],
+            [ 11.6404374, 52.140644 ],
+            [ 11.6403728, 52.1406478 ],
+            [ 11.6404623, 52.1412914 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838886",
+      "properties": {
+        "@id": "way/30838886",
+        "addr:housename": "Gebäude 01",
+        "building": "university",
+        "building:levels": "1",
+        "height": "3",
+        "operator": "Otto-von-Guericke-Universität"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6402922, 52.1404089 ],
+            [ 11.6403259, 52.1405786 ],
+            [ 11.6404253, 52.1405712 ],
+            [ 11.6405437, 52.1405623 ],
+            [ 11.6408491, 52.1405395 ],
+            [ 11.6408154, 52.1403698 ],
+            [ 11.6402922, 52.1404089 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838888",
+      "properties": {
+        "@id": "way/30838888",
+        "addr:housename": "Gebäude 14",
+        "building": "university",
+        "building:levels": "2",
+        "height": "6",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:levels": "1",
+        "roof:material": "roof_tiles",
+        "roof:orientation": "along",
+        "roof:shape": "pyramidal",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.642, 52.141229 ],
+            [ 11.642155, 52.1412167 ],
+            [ 11.6421445, 52.1411665 ],
+            [ 11.6429343, 52.1411043 ],
+            [ 11.6429448, 52.1411544 ],
+            [ 11.6431063, 52.1411417 ],
+            [ 11.6431045, 52.141133 ],
+            [ 11.6430776, 52.1410046 ],
+            [ 11.642932, 52.1410178 ],
+            [ 11.6426914, 52.1410358 ],
+            [ 11.6423877, 52.1410605 ],
+            [ 11.6421463, 52.1410784 ],
+            [ 11.6419714, 52.1410922 ],
+            [ 11.642, 52.141229 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838889",
+      "properties": {
+        "@id": "way/30838889",
+        "addr:housename": "Gebäude 15",
+        "building": "university",
+        "building:levels": "2",
+        "height": "6",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:height": "3",
+        "roof:material": "roof_tiles",
+        "roof:orientation": "along",
+        "roof:shape": "pyramidal",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6433965, 52.1411288 ],
+            [ 11.6435479, 52.1411176 ],
+            [ 11.6435369, 52.1410618 ],
+            [ 11.6444997, 52.1409905 ],
+            [ 11.6445093, 52.1410389 ],
+            [ 11.6446622, 52.1410276 ],
+            [ 11.6446361, 52.1408944 ],
+            [ 11.6444836, 52.1409057 ],
+            [ 11.6443982, 52.1409121 ],
+            [ 11.6443373, 52.140602 ],
+            [ 11.6440717, 52.1406217 ],
+            [ 11.6441332, 52.1409344 ],
+            [ 11.6438544, 52.140955 ],
+            [ 11.6437952, 52.1406539 ],
+            [ 11.6435252, 52.1406739 ],
+            [ 11.6435845, 52.1409752 ],
+            [ 11.6433694, 52.1409912 ],
+            [ 11.643393, 52.1411109 ],
+            [ 11.6433965, 52.1411288 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30838891",
+      "properties": {
+        "@id": "way/30838891",
+        "addr:housename": "Gebäude 20",
+        "building": "university",
+        "building:levels": "3",
+        "height": "9",
+        "operator": "Otto-von-Guericke-Universität"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6447415, 52.1406995 ],
+            [ 11.6451005, 52.1406932 ],
+            [ 11.6450967, 52.1406541 ],
+            [ 11.645116, 52.1406539 ],
+            [ 11.6451147, 52.1406175 ],
+            [ 11.6450954, 52.1406177 ],
+            [ 11.6450938, 52.1405713 ],
+            [ 11.6451088, 52.1405711 ],
+            [ 11.6451074, 52.1405316 ],
+            [ 11.6450924, 52.1405318 ],
+            [ 11.6450912, 52.1404973 ],
+            [ 11.6449878, 52.1404987 ],
+            [ 11.644988, 52.1405053 ],
+            [ 11.644903, 52.1405064 ],
+            [ 11.6449081, 52.1406509 ],
+            [ 11.6448656, 52.1406514 ],
+            [ 11.6448652, 52.1406386 ],
+            [ 11.6447908, 52.1406396 ],
+            [ 11.644791, 52.1406463 ],
+            [ 11.6447395, 52.140647 ],
+            [ 11.6447415, 52.1406995 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30885730",
+      "properties": {
+        "@id": "way/30885730",
+        "addr:housename": "Gebäude 24",
+        "building": "university",
+        "building:levels": "4",
+        "height": "12",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:shape": "flat",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6468118, 52.141065 ],
+            [ 11.6470785, 52.1410533 ],
+            [ 11.6470507, 52.1408152 ],
+            [ 11.646784, 52.140827 ],
+            [ 11.6468118, 52.141065 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30885731",
+      "properties": {
+        "@id": "way/30885731",
+        "addr:city": "Magdeburg",
+        "addr:country": "DE",
+        "addr:housename": "Gebäude 23",
+        "addr:housenumber": "23",
+        "addr:postcode": "39106",
+        "addr:street": "Gustav-Adolf-Straße",
+        "building": "university",
+        "building:levels": "3",
+        "height": "9",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6463188, 52.1407919 ],
+            [ 11.646682, 52.140773 ],
+            [ 11.6466579, 52.1405988 ],
+            [ 11.6462948, 52.1406177 ],
+            [ 11.6463188, 52.1407919 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34258613",
+      "properties": {
+        "@id": "way/34258613",
+        "addr:housename": "Gebäude 30",
+        "amenity": "library",
+        "building": "university",
+        "height": "20",
+        "layer": "1",
+        "name": "Universitätsbibliothek",
+        "operator": "Otto-von-Guericke-Universität",
+        "ref:isil": "DE-Ma9",
+        "website": "http://www.ub.ovgu.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6460414, 52.1394004 ],
+            [ 11.6462429, 52.1393938 ],
+            [ 11.6465427, 52.1392325 ],
+            [ 11.6466986, 52.1392413 ],
+            [ 11.6470375, 52.1392588 ],
+            [ 11.647325, 52.1392737 ],
+            [ 11.6477197, 52.1392006 ],
+            [ 11.6476202, 52.1386404 ],
+            [ 11.6475937, 52.1386382 ],
+            [ 11.6474117, 52.1386236 ],
+            [ 11.6470322, 52.1385403 ],
+            [ 11.6469775, 52.1385853 ],
+            [ 11.6467958, 52.1387435 ],
+            [ 11.6464992, 52.1390017 ],
+            [ 11.6464688, 52.1389956 ],
+            [ 11.6462133, 52.1392151 ],
+            [ 11.6462577, 52.1392121 ],
+            [ 11.6460414, 52.1394004 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34258614",
+      "properties": {
+        "@id": "way/34258614",
+        "addr:housename": "Gebäude 25",
+        "building": "yes",
+        "building:levels": "3",
+        "height": "9",
+        "name": "Gebäude 25",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6476962, 52.1403114 ],
+            [ 11.6476732, 52.1402011 ],
+            [ 11.6475731, 52.140209 ],
+            [ 11.6475554, 52.1401243 ],
+            [ 11.6468207, 52.140182 ],
+            [ 11.6468342, 52.1402469 ],
+            [ 11.6469712, 52.1402361 ],
+            [ 11.6469984, 52.1403663 ],
+            [ 11.6476962, 52.1403114 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286101",
+      "properties": {
+        "@id": "way/34286101",
+        "amenity": "theatre",
+        "building": "yes",
+        "height": "5.5",
+        "name": "ehemaliges Campustheather Projekt 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6510829, 52.1396089 ],
+            [ 11.6510512, 52.1394733 ],
+            [ 11.6507526, 52.1394996 ],
+            [ 11.6507619, 52.1395364 ],
+            [ 11.6507706, 52.139578 ],
+            [ 11.6507843, 52.1396352 ],
+            [ 11.6510829, 52.1396089 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286102",
+      "properties": {
+        "@id": "way/34286102",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "5",
+        "addr:postcode": "39106",
+        "addr:street": "Johann-Gottlob-Nathusius-Ring",
+        "building": "dormitory",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Wohnheim 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6505729, 52.1404653 ],
+            [ 11.6507552, 52.1404499 ],
+            [ 11.6505637, 52.1395943 ],
+            [ 11.650555, 52.1395527 ],
+            [ 11.6505377, 52.1394774 ],
+            [ 11.650355, 52.1394928 ],
+            [ 11.6505729, 52.1404653 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286105",
+      "properties": {
+        "@id": "way/34286105",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "23",
+        "addr:postcode": "39106",
+        "addr:street": "Sandtorstraße",
+        "building": "university",
+        "height": "9.5",
+        "man_made": "works",
+        "name": "Experimentelle Fabrik",
+        "operator": "Otto-von-Guericke-Universität",
+        "research_institution": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6520097, 52.138869 ],
+            [ 11.6517703, 52.1384433 ],
+            [ 11.651478, 52.1385041 ],
+            [ 11.6512347, 52.1385546 ],
+            [ 11.6509901, 52.1386055 ],
+            [ 11.6511842, 52.13895 ],
+            [ 11.6514471, 52.1389242 ],
+            [ 11.6517093, 52.1388985 ],
+            [ 11.6520097, 52.138869 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286108",
+      "properties": {
+        "@id": "way/34286108",
+        "addr:housename": "Gebäude 29",
+        "building": "university",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Fakultät für Informatik (Gebäude 29)",
+        "operator": "Otto-von-Guericke-Universität",
+        "roof:shape": "flat",
+        "website": "http://www.cs.uni-magdeburg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.645735, 52.1391492 ],
+            [ 11.6457234, 52.1390773 ],
+            [ 11.645532, 52.1390889 ],
+            [ 11.6454886, 52.1388194 ],
+            [ 11.6456988, 52.1388066 ],
+            [ 11.6457029, 52.1388323 ],
+            [ 11.6459358, 52.1388181 ],
+            [ 11.6459283, 52.1387717 ],
+            [ 11.6463826, 52.1387442 ],
+            [ 11.6463683, 52.1386558 ],
+            [ 11.6452711, 52.1387223 ],
+            [ 11.6453437, 52.139173 ],
+            [ 11.6455436, 52.1391608 ],
+            [ 11.645735, 52.1391492 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286110",
+      "properties": {
+        "@id": "way/34286110",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "19",
+        "addr:postcode": "39106",
+        "addr:street": "Walther-Rathenau-Straße",
+        "building": "dormitory",
+        "building:levels": "6",
+        "height": "18",
+        "note": "Wohnheim 11",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6482648, 52.1387825 ],
+            [ 11.6484727, 52.1387648 ],
+            [ 11.6484744, 52.1387723 ],
+            [ 11.6485562, 52.1387653 ],
+            [ 11.6485545, 52.1387579 ],
+            [ 11.6493935, 52.1386867 ],
+            [ 11.6493957, 52.1386966 ],
+            [ 11.6494747, 52.1386899 ],
+            [ 11.6494725, 52.13868 ],
+            [ 11.6496799, 52.1386624 ],
+            [ 11.6496498, 52.138529 ],
+            [ 11.6482347, 52.1386492 ],
+            [ 11.6482648, 52.1387825 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286683",
+      "properties": {
+        "@id": "way/34286683",
+        "building": "dormitory",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Wohnheim 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6489391, 52.1394506 ],
+            [ 11.6490959, 52.1394384 ],
+            [ 11.6489818, 52.1388866 ],
+            [ 11.648825, 52.1388988 ],
+            [ 11.6488809, 52.1391694 ],
+            [ 11.6489391, 52.1394506 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286684",
+      "properties": {
+        "@id": "way/34286684",
+        "building": "dormitory",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Wohnheim 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6496589, 52.1393972 ],
+            [ 11.6498158, 52.1393851 ],
+            [ 11.6497018, 52.1388308 ],
+            [ 11.649545, 52.1388429 ],
+            [ 11.6496015, 52.1391179 ],
+            [ 11.6496589, 52.1393972 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286685",
+      "properties": {
+        "@id": "way/34286685",
+        "building": "dormitory",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Wohnheim 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6482104, 52.1395093 ],
+            [ 11.6483672, 52.1394969 ],
+            [ 11.6482527, 52.1389505 ],
+            [ 11.6480959, 52.1389628 ],
+            [ 11.6481517, 52.1392292 ],
+            [ 11.6482104, 52.1395093 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286686",
+      "properties": {
+        "@id": "way/34286686",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "39106",
+        "addr:street": "Johann-Gottlob-Nathusius-Ring",
+        "building": "dormitory",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Wohnheim 2",
+        "roof:levels": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6492052, 52.1410095 ],
+            [ 11.6493631, 52.140999 ],
+            [ 11.6492522, 52.1404151 ],
+            [ 11.6490858, 52.1404308 ],
+            [ 11.6492052, 52.1410095 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34286687",
+      "properties": {
+        "@id": "way/34286687",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "2",
+        "addr:postcode": "39106",
+        "addr:street": "Johann-Gottlob-Nathusius-Ring",
+        "building": "dormitory",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Wohnheim 3",
+        "roof:levels": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6499424, 52.1411935 ],
+            [ 11.6501003, 52.141183 ],
+            [ 11.6499893, 52.1405991 ],
+            [ 11.6498229, 52.1406148 ],
+            [ 11.6499424, 52.1411935 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35032266",
+      "properties": {
+        "@id": "way/35032266",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "40",
+        "addr:postcode": "39106",
+        "addr:street": "Hohepfortestraße",
+        "building": "dormitory",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Wohnheim 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6481663, 52.1402884 ],
+            [ 11.6482416, 52.140587 ],
+            [ 11.6482215, 52.1405878 ],
+            [ 11.6482416, 52.1406866 ],
+            [ 11.6482631, 52.1406866 ],
+            [ 11.6483127, 52.1409319 ],
+            [ 11.6482805, 52.1409319 ],
+            [ 11.6482966, 52.1409952 ],
+            [ 11.6483127, 52.1410295 ],
+            [ 11.6483426, 52.1410641 ],
+            [ 11.6483836, 52.1410993 ],
+            [ 11.6484862, 52.141137 ],
+            [ 11.6484991, 52.1411194 ],
+            [ 11.6485295, 52.1410781 ],
+            [ 11.6485332, 52.1410731 ],
+            [ 11.648558, 52.1410641 ],
+            [ 11.6485733, 52.1410463 ],
+            [ 11.6485776, 52.1410264 ],
+            [ 11.6485571, 52.1410038 ],
+            [ 11.648534, 52.1409876 ],
+            [ 11.6485024, 52.1409802 ],
+            [ 11.6484669, 52.1409788 ],
+            [ 11.6484602, 52.1409664 ],
+            [ 11.6484508, 52.1409434 ],
+            [ 11.648428, 52.1409434 ],
+            [ 11.6484267, 52.1409236 ],
+            [ 11.6484897, 52.1409195 ],
+            [ 11.6484407, 52.140679 ],
+            [ 11.6484594, 52.1406772 ],
+            [ 11.6484307, 52.1405621 ],
+            [ 11.6484167, 52.1405626 ],
+            [ 11.6483536, 52.1402723 ],
+            [ 11.6481663, 52.1402884 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35032267",
+      "properties": {
+        "@id": "way/35032267",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "2",
+        "addr:postcode": "39106",
+        "addr:street": "Ernst-Lehmann-Straße",
+        "building": "dormitory",
+        "building:levels": "5",
+        "height": "15",
+        "name": "Campus House"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6486389, 52.1410526 ],
+            [ 11.6486094, 52.1410975 ],
+            [ 11.6485823, 52.1411387 ],
+            [ 11.6485658, 52.1411639 ],
+            [ 11.6500045, 52.141525 ],
+            [ 11.6500784, 52.1414142 ],
+            [ 11.6486389, 52.1410526 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/103483365",
+      "properties": {
+        "@id": "way/103483365",
+        "addr:city": "Magdeburg",
+        "addr:housename": "Campus Tower",
+        "addr:housenumber": "1",
+        "addr:postcode": "39106",
+        "addr:street": "Universitätsplatz",
+        "building": "dormitory",
+        "building:levels": "16",
+        "description": "Studentenwohnheim",
+        "height": "60",
+        "name": "Campus Tower",
+        "old_name": "Uni-Hochhaus",
+        "roof:shape": "flat",
+        "website": "http://www.studenten-wohnen.net/pages/campus-tower.php"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.640752, 52.1392758 ],
+            [ 11.6405887, 52.1392878 ],
+            [ 11.6405811, 52.1392486 ],
+            [ 11.6403022, 52.1392691 ],
+            [ 11.6403203, 52.1393624 ],
+            [ 11.6404081, 52.1393559 ],
+            [ 11.6404207, 52.1394207 ],
+            [ 11.6404436, 52.1395378 ],
+            [ 11.6405672, 52.1395288 ],
+            [ 11.6405606, 52.1394952 ],
+            [ 11.6406338, 52.1394898 ],
+            [ 11.6407914, 52.1394782 ],
+            [ 11.6407717, 52.1393772 ],
+            [ 11.640752, 52.1392758 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/103483367",
+      "properties": {
+        "@id": "way/103483367",
+        "building": "university",
+        "height": "6.5",
+        "operator": "Otto-von-Guericke-Universität Magdeburg",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6410153, 52.1408501 ],
+            [ 11.6408389, 52.14086 ],
+            [ 11.640851, 52.1409422 ],
+            [ 11.6410275, 52.1409324 ],
+            [ 11.6410153, 52.1408501 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127386134",
+      "properties": {
+        "@id": "way/127386134",
+        "building": "yes",
+        "building:levels": "4",
+        "height": "12",
+        "construction": "building",
+        "name": "Gebäude 28"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6478532, 52.1404653 ],
+            [ 11.6471454, 52.1405218 ],
+            [ 11.6476887, 52.1408316 ],
+            [ 11.6479268, 52.1408126 ],
+            [ 11.6478532, 52.1404653 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144323759",
+      "properties": {
+        "@id": "way/144323759",
+        "building": "university",
+        "building:levels": "1",
+        "height": "3",
+        "name": "Campus-Service-Center",
+        "operator": "Otto-von-Guericke-Universität Magdeburg",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6402672, 52.1403624 ],
+            [ 11.6403973, 52.1403531 ],
+            [ 11.6406938, 52.1403317 ],
+            [ 11.6406839, 52.14028 ],
+            [ 11.6406753, 52.140235 ],
+            [ 11.6402487, 52.1402657 ],
+            [ 11.6402672, 52.1403624 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165409458",
+      "properties": {
+        "@id": "way/165409458",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "3",
+        "note": "Gemäß Luftbildern ist das Gebäude nicht orthogonal",
+        "roof:shape": "flat",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6446072, 52.1408532 ],
+            [ 11.6447481, 52.140851 ],
+            [ 11.6447449, 52.1407714 ],
+            [ 11.6447424, 52.1407116 ],
+            [ 11.6446015, 52.1407138 ],
+            [ 11.6446072, 52.1408532 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165409459",
+      "properties": {
+        "@id": "way/165409459",
+        "addr:housename": "Gebäude 13",
+        "building": "yes",
+        "building:levels": "2",
+        "height": "6",
+        "operator": "Otto-von-Guericke-Universität",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6418899, 52.1405774 ],
+            [ 11.642569, 52.1405203 ],
+            [ 11.6425416, 52.1403976 ],
+            [ 11.6419969, 52.1404433 ],
+            [ 11.6419881, 52.1404041 ],
+            [ 11.6419515, 52.1404072 ],
+            [ 11.6419602, 52.1404464 ],
+            [ 11.6418625, 52.1404546 ],
+            [ 11.6418899, 52.1405774 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165409460",
+      "properties": {
+        "@id": "way/165409460",
+        "building": "yes",
+        "building:levels": "2",
+        "height": "6",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6429525, 52.1403129 ],
+            [ 11.6428048, 52.1403253 ],
+            [ 11.6428459, 52.1405096 ],
+            [ 11.6429936, 52.1404972 ],
+            [ 11.6429525, 52.1403129 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255948979",
+      "properties": {
+        "@id": "way/255948979",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6451005, 52.1406932 ],
+            [ 11.6447415, 52.1406995 ],
+            [ 11.6447424, 52.1407116 ],
+            [ 11.6447449, 52.1407714 ],
+            [ 11.6451039, 52.140765 ],
+            [ 11.6451005, 52.1406932 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255948980",
+      "properties": {
+        "@id": "way/255948980",
+        "building": "garage",
+        "building:levels": "1",
+        "height": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6447387, 52.1409538 ],
+            [ 11.6449876, 52.1409475 ],
+            [ 11.6449828, 52.1408737 ],
+            [ 11.6447336, 52.1408802 ],
+            [ 11.6447387, 52.1409538 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255948981",
+      "properties": {
+        "@id": "way/255948981",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6449876, 52.1409475 ],
+            [ 11.6451932, 52.1409426 ],
+            [ 11.6451876, 52.1408541 ],
+            [ 11.6449819, 52.1408591 ],
+            [ 11.6449828, 52.1408737 ],
+            [ 11.6449876, 52.1409475 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255948982",
+      "properties": {
+        "@id": "way/255948982",
+        "building": "university",
+        "building:levels": "2",
+        "height": "6",
+        "name": "Gebäude 26",
+        "operator": "Otto-von-Guericke Universität",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6466569, 52.1399584 ],
+            [ 11.6465971, 52.1396597 ],
+            [ 11.6465652, 52.1395033 ],
+            [ 11.6463986, 52.1395161 ],
+            [ 11.6462436, 52.1395275 ],
+            [ 11.6463252, 52.1399479 ],
+            [ 11.6463528, 52.1400859 ],
+            [ 11.6466774, 52.1400615 ],
+            [ 11.6466569, 52.1399584 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255948983",
+      "properties": {
+        "@id": "way/255948983",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6466569, 52.1399584 ],
+            [ 11.6473794, 52.1399043 ],
+            [ 11.64732, 52.1396056 ],
+            [ 11.6469865, 52.1396306 ],
+            [ 11.6465971, 52.1396597 ],
+            [ 11.6466569, 52.1399584 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265206593",
+      "properties": {
+        "@id": "way/265206593",
+        "building": "university",
+        "building:levels": "2",
+        "height": "6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6426914, 52.1410358 ],
+            [ 11.642932, 52.1410178 ],
+            [ 11.6428675, 52.1406942 ],
+            [ 11.6426274, 52.1407118 ],
+            [ 11.6426543, 52.1408483 ],
+            [ 11.6426914, 52.1410358 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265206594",
+      "properties": {
+        "@id": "way/265206594",
+        "building": "university",
+        "building:levels": "1",
+        "height": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6426543, 52.1408483 ],
+            [ 11.6426274, 52.1407118 ],
+            [ 11.6420821, 52.1407522 ],
+            [ 11.6421463, 52.1410784 ],
+            [ 11.6423877, 52.1410605 ],
+            [ 11.6423504, 52.1408709 ],
+            [ 11.6426543, 52.1408483 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295386561",
+      "properties": {
+        "@id": "way/295386561",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6405552, 52.1406371 ],
+            [ 11.6405437, 52.1405623 ],
+            [ 11.6404253, 52.1405712 ],
+            [ 11.6404374, 52.140644 ],
+            [ 11.6405552, 52.1406371 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295467493",
+      "properties": {
+        "@id": "way/295467493",
+        "building": "university",
+        "building:levels": "1",
+        "height": "14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6420993, 52.1397824 ],
+            [ 11.6423424, 52.139762 ],
+            [ 11.6423096, 52.1396164 ],
+            [ 11.6422521, 52.1393508 ],
+            [ 11.6420097, 52.1393707 ],
+            [ 11.6420993, 52.1397824 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295467494",
+      "properties": {
+        "@id": "way/295467494",
+        "building": "university",
+        "building:levels": "2",
+        "height": "6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6423096, 52.1396164 ],
+            [ 11.6423424, 52.139762 ],
+            [ 11.6428841, 52.1397163 ],
+            [ 11.6428521, 52.1395705 ],
+            [ 11.6423096, 52.1396164 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295467495",
+      "properties": {
+        "@id": "way/295467495",
+        "building": "university",
+        "building:levels": "1",
+        "height": "14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6428521, 52.1395705 ],
+            [ 11.6428841, 52.1397163 ],
+            [ 11.6431273, 52.1396962 ],
+            [ 11.6431038, 52.139589 ],
+            [ 11.6430405, 52.139289 ],
+            [ 11.6427968, 52.1393084 ],
+            [ 11.6428521, 52.1395705 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295467496",
+      "properties": {
+        "@id": "way/295467496",
+        "building": "university",
+        "height": "6.5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6431038, 52.139589 ],
+            [ 11.643219, 52.1395798 ],
+            [ 11.6431551, 52.1392804 ],
+            [ 11.6430405, 52.139289 ],
+            [ 11.6431038, 52.139589 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295467497",
+      "properties": {
+        "@id": "way/295467497",
+        "building": "university",
+        "height": "7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.643219, 52.1395798 ],
+            [ 11.6431038, 52.139589 ],
+            [ 11.6431273, 52.1396962 ],
+            [ 11.6434494, 52.13967 ],
+            [ 11.6434262, 52.1395625 ],
+            [ 11.643219, 52.1395798 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295467498",
+      "properties": {
+        "@id": "way/295467498",
+        "building": "yes",
+        "building:levels": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6505637, 52.1395943 ],
+            [ 11.6507706, 52.139578 ],
+            [ 11.6507619, 52.1395364 ],
+            [ 11.650555, 52.1395527 ],
+            [ 11.6505637, 52.1395943 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295467499",
+      "properties": {
+        "@id": "way/295467499",
+        "building": "yes",
+        "building:levels": "5",
+        "building:min_level": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6484991, 52.1411194 ],
+            [ 11.6485338, 52.1411275 ],
+            [ 11.6485823, 52.1411387 ],
+            [ 11.6486094, 52.1410975 ],
+            [ 11.6485621, 52.141086 ],
+            [ 11.6485295, 52.1410781 ],
+            [ 11.6484991, 52.1411194 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328993661",
+      "properties": {
+        "@id": "way/328993661",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 11.6414247, 52.141544 ],
+            [ 11.6415067, 52.1415369 ],
+            [ 11.6415179, 52.1415861 ],
+            [ 11.641436, 52.1415932 ],
+            [ 11.6414247, 52.141544 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784855",
+      "properties": {
+        "@id": "node/1904784855",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6436908,
+          52.1391508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784858",
+      "properties": {
+        "@id": "node/1904784858",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6429017,
+          52.1392144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784861",
+      "properties": {
+        "@id": "node/1904784861",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6415256,
+          52.1392171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784864",
+      "properties": {
+        "@id": "node/1904784864",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6421051,
+          52.1392786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784879",
+      "properties": {
+        "@id": "node/1904784879",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6425652,
+          52.1399332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784884",
+      "properties": {
+        "@id": "node/1904784884",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6421668,
+          52.1399543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784886",
+      "properties": {
+        "@id": "node/1904784886",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6438908,
+          52.1399888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1766128930",
+      "properties": {
+        "@id": "node/1766128930",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6404207,
+          52.1394207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784889",
+      "properties": {
+        "@id": "node/1904784889",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6426238,
+          52.1400957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784892",
+      "properties": {
+        "@id": "node/1904784892",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6420751,
+          52.1401418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3063948509",
+      "properties": {
+        "@id": "node/3063948509",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6407717,
+          52.1393772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784851",
+      "properties": {
+        "@id": "node/1904784851",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6445852,
+          52.1389704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784865",
+      "properties": {
+        "@id": "node/1904784865",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6447325,
+          52.1393023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784871",
+      "properties": {
+        "@id": "node/1904784871",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6473061,
+          52.1395278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784868",
+      "properties": {
+        "@id": "node/1904784868",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6463986,
+          52.1395161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904784882",
+      "properties": {
+        "@id": "node/1904784882",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6463252,
+          52.1399479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2616534798",
+      "properties": {
+        "@id": "node/2616534798",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6469865,
+          52.1396306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1890347720",
+      "properties": {
+        "@id": "node/1890347720",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "7",
+        "addr:postcode": "39106",
+        "addr:street": "Johann-Gottlob-Nathusius-Ring",
+        "entrance": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6496015,
+          52.1391179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1890347723",
+      "properties": {
+        "@id": "node/1890347723",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "8",
+        "addr:postcode": "39106",
+        "addr:street": "Johann-Gottlob-Nathusius-Ring",
+        "entrance": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6488809,
+          52.1391694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1890347726",
+      "properties": {
+        "@id": "node/1890347726",
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "38",
+        "addr:postcode": "39106",
+        "addr:street": "Hohepfortestraße",
+        "entrance": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6481517,
+          52.1392292
+        ]
+      }
+    }
+  ]
+}
