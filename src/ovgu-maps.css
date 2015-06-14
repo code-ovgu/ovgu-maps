@@ -1,0 +1,7 @@
+a:link.link, a:visited.link {
+  text-decoration: underline;
+  font-weight: bold;
+  /*font-size: 1.5em;*/
+  color: #7f003c;
+  /*background-color: #c0c0c0;*/
+}
